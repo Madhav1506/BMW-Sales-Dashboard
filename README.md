@@ -1,4 +1,4 @@
-
+Excel-based sales dashboard analyzing BMW sales performance from 2010–2024, including vehicle models, regions, sales trends, and categories.
 
 ## 📌 About the Project
 This project analyzes BMW sales data from 2010 to 2024 using Microsoft Excel. The dashboard presents sales insights through charts, summaries, and visualizations.
